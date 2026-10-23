@@ -8,5 +8,8 @@ infrastructure, and agentic AI systems for clinical and biomedical data.
 
 **Tools I use**
 
-Python, Pydantic-AI, MCP, Anthropic API, FastAPI, Nextflow, AWS Batch,
-PyTorch, HuggingFace, PostgreSQL, Docker.
+- **AI:** Anthropic API, Pydantic-AI, MCP, PyTorch, HuggingFace
+- **Pipelines:** Nextflow, nf-core (rnaseq, methylseq), nf-test, Seqera Platform, Bismark,
+  scanpy, R/Bioconductor (DESeq2, mixOmics)
+- **Cloud and infra:** AWS Batch, AWS CDK, Docker, Apptainer, Slurm, GitHub Actions
+- **Backend and data:** Python, uv, FastAPI, PostgreSQL, Parquet
